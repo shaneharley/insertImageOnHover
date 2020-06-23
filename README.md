@@ -1,5 +1,5 @@
 # insertImageOnHover
-##Preview: TBD
+## Preview: TBD
 
 Building something that inserts/replaces the background image of a section when you hover over a particular element
 
